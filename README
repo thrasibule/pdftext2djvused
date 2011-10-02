@@ -1,2 +1,6 @@
 Small script to convert hidden text from a pdf file as output by
 pdftotext -bbox to the djvused format.
+
+Usage:
+
+pdftest2djvused input.html>ouput.djvused
